@@ -10,3 +10,6 @@ Goal: Build intuition and knowledge around the successor representation (SR) and
 
 ### Out of Scope (for now)
 * Deep linear network training dynamics (this could be a future step)
+
+## Theoretical References & Literature
+Predictive Maps in the Brain (MIT Center for Brains, Minds + Machines): https://youtu.be/LLrFcNRvHyE
